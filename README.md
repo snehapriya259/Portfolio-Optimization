@@ -1,1 +1,2 @@
-# Portfolio-Optimization-
+# Portfolio-Optimization
+This project studies portfolio optimization for algorithmic trading using data from 24 major Indian companies from Yahoo Finance. Analysed price trends, returns, volatility, and correlations to build portfolios that maximize returns and reduce risk. We compare methods like Hierarchical Risk Parity, Mean-Variance Optimization, Cluster-Equal Allocation, and Minimum Volatility to find the best risk-adjusted performance for the Indian stock market.
